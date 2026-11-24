@@ -7,7 +7,7 @@
 
 Building projects, experimenting with technology, and learning by creating.
 
-[GitHub](https://github.com/akw3s) · [Website](https://akw3s.github.io/)
+[GitHub](https://github.com/akw3s) · [Website](https://akwes.qzz.io)
 
 </div>
 
